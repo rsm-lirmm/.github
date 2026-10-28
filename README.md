@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="assets/logo.png" height="160"/> 
+<img src="profile/assets/logo.png" height="160"/> 
 </p>
 
 # Marine Robotics Team (RSM) 
